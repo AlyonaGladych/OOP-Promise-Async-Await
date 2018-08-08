@@ -12,7 +12,7 @@ class Vehicle {
     }
 
     getAge() {
-        console.log(`This car is only ${2018 - this.year} old`);
+        console.log(`This car is only ${2018 - this.year} years old`);
         this.year 
     }
 } 
