@@ -17,10 +17,6 @@ class Car extends Vehicle {
     transportPeople() {
         console.log("I'm starting to transport people");
     }
-
-    getAge() {
-        super.getAge();
-    }
 }
 
 module.exports = Car;
